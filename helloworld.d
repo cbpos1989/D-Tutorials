@@ -1,5 +1,9 @@
 import std.stdio;
 
 void main(){
-	writeln("Hello World!");
+	write("Hello"," ","World!");
+	
+	write("Writing in the D language");
+	
+	writeln();
 }
